@@ -1,0 +1,8 @@
+path: 'C:/vision artificial'
+train: imagenes/test
+val: imagenes/training
+
+nc: 2
+names: 
+  0: mango
+  1: platano 
