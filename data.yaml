@@ -1,0 +1,9 @@
+path: dataset
+train: train
+val: valid
+test: test
+
+nc: 2
+names:
+  0: platano
+  1: mango
